@@ -1,6 +1,3 @@
-const container = document.querySelector('.container');
-const die1 = document.querySelector('.dice');
-const die2 = document.querySelector('.dice:nth-child(2)');
 const rollBtn = document.querySelector('.roll-button');
 const img1 = document.querySelector('.img1');
 const img2 = document.querySelector('.img2');
